@@ -1,6 +1,6 @@
 # Big Data Text Summarization
 
-Hurricane Irma
+Dataset : Hurricane Irma
 
 Team Members : 
 Yamini Gaur (yamini94@vt.edu)
